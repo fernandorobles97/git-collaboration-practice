@@ -4,3 +4,10 @@ Open up your directory in your text editor and add some text to that README
 Initialize git by running git init
 Stage your README by running git add README.md
 Make your first commit by running git commit -m "Initial Commit"
+
+
+Getting Started
+
+Get the link to your partner’s repo
+Accept the collaborator invitation (you’ll probably get an email)
+Clone it down to your machine
